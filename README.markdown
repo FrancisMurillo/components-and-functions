@@ -1,6 +1,6 @@
 # frontend-functions
 
-This presentation is for the [https://www.meetup.com/scala-manila/events/234894294/](5th Functional Programming Users Group Meetup) where I talk about ReactJS as components and how it parallels functions.
+This presentation is for the [5th Functional Programming Users Group Meetup](https://www.meetup.com/scala-manila/events/234894294/) where I talk about ReactJS as components and how it parallels functions.
 
 # Viewing the presentation
 
