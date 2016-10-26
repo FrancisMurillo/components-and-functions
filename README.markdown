@@ -4,6 +4,6 @@ This presentation is for the [5th Functional Programming Users Group Meetup](htt
 
 # Viewing the presentation
 
-This uses [https://github.com/FormidableLabs/spectacle/blob/master/README.markdown](https://github.com/FormidableLabs/spectacle/blob/master/README.markdown) which is a React presentation framework.
+This uses [Spectacle](https://github.com/FormidableLabs/spectacle/blob/master/README.markdown) which is a React presentation framework, it is a nice framework so you can have React components inline with your presentation. I still prefer (org-reveal)[https://github.com/yjwen/org-reveal/] for it's simplicity and focus for code and text, but a react presentation needs a react presentation library.
 
 Just run `npm install` to build it, `npm start` to start the presentation and then find it at `http://localhost:33000`.
