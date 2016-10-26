@@ -1,21 +1,9 @@
-# Spectacle Boilerplate
+# frontend-functions
 
-## Reference
+This presentation is for the [https://www.meetup.com/scala-manila/events/234894294/](5th Functional Programming Users Group Meetup) where I talk about ReactJS as components and how it parallels functions.
 
-The Spectacle core API is available at [https://github.com/FormidableLabs/spectacle/blob/master/README.markdown](https://github.com/FormidableLabs/spectacle/blob/master/README.markdown).
+# Viewing the presentation
 
-## Development
+This uses [https://github.com/FormidableLabs/spectacle/blob/master/README.markdown](https://github.com/FormidableLabs/spectacle/blob/master/README.markdown) which is a React presentation framework.
 
-After downloading the boilerplate, your first order of business is to open terminal and run `npm install`
-
-Next, run `rm -R .git` to remove the existing version control.
-
-Then, to start up the local server, run `npm start`
-
-Open a browser and hit [http://localhost:3000](http://localhost:3000), and we are ready to roll
-
-## Build & Deployment
-
-Building the dist version of the project is as easy as running `npm run build`
-
-If you want to deploy the slideshow to surge, run `npm run deploy`
+Just run `npm install` to build it, `npm start` to start the presentation and then find it at `http://localhost:33000`.
